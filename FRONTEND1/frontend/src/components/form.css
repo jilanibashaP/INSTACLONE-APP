@@ -1,0 +1,14 @@
+.formContainer{
+    padding: 80px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 20px;
+    display: inline-block;
+    /* margin-left: 500px; */
+}
+.authorclass{
+    margin-top: 10px;
+}
+.textareaClass{
+    margin-top: 10px;
+}
